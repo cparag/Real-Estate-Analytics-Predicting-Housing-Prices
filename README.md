@@ -1,9 +1,7 @@
 # Real-Estate-Analytics-Predicting-Housing-Prices
 
 
-This project focuses on predicting house prices using machine learning techniques. By analyzing housing data, we aim to estimate house prices accurately. The project covers data exploration, model 
-
-development, and deployment.
+This project focuses on predicting house prices using machine learning techniques. By analyzing housing data, we aim to estimate house prices accurately. The project covers data exploration, model development, and deployment.
 
 Key Features
 
